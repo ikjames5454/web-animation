@@ -10,9 +10,6 @@ import ButtonLink from "@/components/ButtonLink";
  */
 export type CallToActionProps = SliceComponentProps<Content.CallToActionSlice>;
 
-/**
- * Component for "CallToAction" Slices.
- */
 const CallToAction: FC<CallToActionProps> = ({ slice }) => {
   return (
     <Bounded
