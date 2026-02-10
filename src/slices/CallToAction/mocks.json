@@ -1,0 +1,34 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"headeing": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Pocket"
+						}
+					}
+				]
+			},
+			"button_link": {
+				"key": "14b7cd9e-9c40-477d-aa1a-95075bafcb72",
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://slicemachine.dev",
+					"text": "pure"
+				}
+			},
+			"button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "wood",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]

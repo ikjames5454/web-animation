@@ -1,0 +1,4 @@
+.slicemachine
+.next
+src/slices/**/mocks.json
+customtypes/**/mocks.json
